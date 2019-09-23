@@ -1,6 +1,6 @@
 package counterexample.sample.counterexample.actions
 
-import tw.geothings.rekotlin.Action
+import org.rekotlin.Action
 
 /**
  * Created by hurden on 10/08/2017.

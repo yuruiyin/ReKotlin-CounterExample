@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CounterExample.iml" filepath="$PROJECT_DIR$/CounterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ReKotlin-CounterExample.iml" filepath="$PROJECT_DIR$/ReKotlin-CounterExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/ReKotlin-CounterExample-app.iml" filepath="$PROJECT_DIR$/app/ReKotlin-CounterExample-app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

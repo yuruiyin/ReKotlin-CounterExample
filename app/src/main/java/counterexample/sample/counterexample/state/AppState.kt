@@ -1,6 +1,6 @@
 package counterexample.sample.counterexample.state
 
-import tw.geothings.rekotlin.StateType
+import org.rekotlin.StateType
 
 /**
  * Created by hurden on 10/08/2017.

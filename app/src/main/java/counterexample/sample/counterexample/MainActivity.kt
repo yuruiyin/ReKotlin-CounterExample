@@ -8,8 +8,8 @@ import counterexample.sample.counterexample.actions.CounterActionDecrease
 import counterexample.sample.counterexample.actions.CounterActionIncrease
 import counterexample.sample.counterexample.reducers.counterReducer
 import counterexample.sample.counterexample.state.AppState
-import tw.geothings.rekotlin.Store
-import tw.geothings.rekotlin.StoreSubscriber
+import org.rekotlin.Store
+import org.rekotlin.StoreSubscriber
 
 /**
  * Created by hurden on 10/08/2017.

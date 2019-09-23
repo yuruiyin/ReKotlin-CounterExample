@@ -3,7 +3,7 @@ package counterexample.sample.counterexample.reducers
 import counterexample.sample.counterexample.actions.CounterActionDecrease
 import counterexample.sample.counterexample.actions.CounterActionIncrease
 import counterexample.sample.counterexample.state.AppState
-import tw.geothings.rekotlin.Action
+import org.rekotlin.Action
 
 /**
  * Created by hurden on 10/08/2017.
